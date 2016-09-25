@@ -1,2 +1,3 @@
 # hello-world
 First GitHub test
+About myself: My name is Elliot, i'm trying...
